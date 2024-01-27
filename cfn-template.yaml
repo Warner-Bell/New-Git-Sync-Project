@@ -17,3 +17,11 @@ Resources:
       Tags:
         - Key: Name
           Value: Git sync
+  GitsyncSubnet2:
+    Type: AWS::EC2::Subnet
+    Properties:
+      VpcId: !Ref GitsyncVpc
+      CidrBlock: 10.0.0.2/24
+      Tags:
+        - Key: Name
+          Value: Git sync2
