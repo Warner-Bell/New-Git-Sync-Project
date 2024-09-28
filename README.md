@@ -6,6 +6,7 @@ Welcome to this step-by-step guide on how to set up a fully automated CI/CD envi
 ---
 
 ## 🎥 Step-by-Step Walk-Through Video
+I produced a walkthrough Video whch can be [Found Here](https://community.aws/content/2bXyo5cojPf2XqoAKstviBOrE3M/automating-cloudformation-deployments-the-devops-way-with-aws-git-sync-github-actions)
 
 ---
 
