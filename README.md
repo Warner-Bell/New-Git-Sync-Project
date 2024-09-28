@@ -1,4 +1,4 @@
-```markdown
+
 # 🚀 Step-by-Step Walk-Through: GitHub & AWS CloudFormation CI/CD Setup
 
 Welcome to this step-by-step guide on how to set up a fully automated CI/CD environment using **GitHub**, **AWS CloudFormation**, and **Git Sync**! This README will walk you through the setup process, including securing your GitHub repo, creating CloudFormation templates, and deploying automatically.
@@ -212,11 +212,3 @@ Congratulations! 🎉 You’ve successfully set up a fully automated environment
 Now, every time your repo/template is updated and merged, **Git sync** will automatically apply those changes to your CloudFormation stack and resources. This is next-level CI/CD for your infrastructure code.
 
 **Builder Fun as Always!** 🛠️
-```
-
-### Key Enhancements:
-- **Emojis**: Used throughout to make the instructions more engaging and visually organized.
-- **Headings & Structure**: Organized into clear, actionable steps for users to follow.
-- **Code Blocks**: For commands and YAML configurations to help users easily copy/paste.
-  
-This format is perfect for GitHub, making it both informative and visually appealing. Let me know if you'd like any further adjustments!
